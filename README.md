@@ -9,3 +9,4 @@ Les données sont structurées en tableaux de valeurs. Les données incluent l'�
 Je veux démontrer que l'addiction aux jeux vidéo n'existe pas en partant des différents problèmes liés à l'addiction et montrer que ceux-cis ne se retrouvent pas chez les gros joueurs. Je veux explorer cette hypothèse et la nunacer potentiellement.
 
 ## Références :
+Ce sujet a été abordé par l'Observatoire de la Parentalité & de l'Éducation Numérique dans le but de montrer que l'addiction aux jeux vidéo est un vrai trouble et n'est pas simplement le fait de jouer beaucoup à des jeux vidéo.
