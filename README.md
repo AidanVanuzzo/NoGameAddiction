@@ -13,6 +13,6 @@ Ce sujet a été abordé par l'Observatoire de la Parentalité & de l'Éducation
 
 ## Wireframe :
 ![Image](https://github.com/user-attachments/assets/15bda27b-298f-4906-8344-99f39f0aa43a)
+![Image](https://github.com/user-attachments/assets/ce100f25-c6fb-4846-b949-0062697580ec)
 ![Image](https://github.com/user-attachments/assets/fba376ad-9081-428e-94ef-eb78088bc886)
 ![Image](https://github.com/user-attachments/assets/7120d462-53a6-438b-8108-a65327473cb1)
-![Image](https://github.com/user-attachments/assets/ce100f25-c6fb-4846-b949-0062697580ec)
