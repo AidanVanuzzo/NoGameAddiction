@@ -11,4 +11,4 @@ Je veux démontrer que l'addiction aux jeux vidéo n'existe pas en partant des d
 ## Références :
 Ce sujet a été abordé par l'Observatoire de la Parentalité & de l'Éducation Numérique dans le but de montrer que l'addiction aux jeux vidéo est un vrai trouble et n'est pas simplement le fait de jouer beaucoup à des jeux vidéo.
 
-wireframep1.jpg
+NoGameAddiction/wireframep1.jpg
